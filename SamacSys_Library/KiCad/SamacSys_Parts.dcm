@@ -1,0 +1,375 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP BQ25713RSNR
+D NVDC I2C Battery Buck-Boost Charge Controller with System Power Monitor & Processor Hot Monitor
+K
+F http://www.ti.com/lit/gpn/bq25713
+$ENDCMP
+#
+$CMP TLV320AIC3100IRHBR
+D Low-Power Audio Codec With Audio Processing and Mono Class-D Amplifier
+K
+F http://www.ti.com/lit/gpn/tlv320aic3100
+$ENDCMP
+#
+$CMP MAX6639ATE+
+D Maxim MAX6639ATE+ Temperature Sensor 16-Pin TQFN, -40  +125 C
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX6639-MAX6639F.pdf
+$ENDCMP
+#
+$CMP LP5810BDSDR
+D  Operating voltage range:  VCC range: 2.7 V to 5.5 V  Logic pins compatible with 1.8 V, 3.3 V, and 5 V  4 constant current sinks with high precision:  0.1-mA to 51-mA per current sink  Device-to-device error: max +/-5%  Channel-to-channel error: max +/-5%  Ultra-low headroom voltage: 110 mV (typ.) at 25.5 mA; 210 mV (typ.) at 51 mA  PWM phase shift configurable for each LED  Ultra-low power consumption:  Standby: ISTB = 26 uA (typical) when CHIP_EN = 0 (data retained)  Active: INOR = 0.
+K
+F https://www.ti.com/lit/ds/symlink/lp5810.pdf?ts=1720163391487&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLP5810%253Fbm-verify%253DAAQAAAAJ_____1Hw-SyqVgOsTbo6uziayCEqvCQuLP5xPXMtPoayZ-TZb82CqcGp8aoeIdqwTkcFCYvPCMxf4Y5rLfLYZLCLZfNDLZdczu7r_PYKQ
+$ENDCMP
+#
+$CMP TPS628680ARQYR
+D Switching Voltage Regulators 5.5-V 4-A synchronous step-down converter with I C interface in 1.5-mm x 2.5-mm QFN package
+K
+F https://www.ti.com/lit/ds/symlink/tps62869.pdf?ts=1693561656644&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fproduct%252Fcn%252FTPS62869
+$ENDCMP
+#
+$CMP TPS63810YFFR
+D Switching Voltage Regulators 2.5-A high-efficient buck-boost converter with interface for dynamic voltage scaling 15-DSBGA -40 to 85
+K
+F http://www.ti.com/lit/ds/symlink/tps63810.pdf
+$ENDCMP
+#
+$CMP LP5907UVX-1.8_NOPB
+D 250-mA ultra-low-noise low-IQ low-dropout (LDO) linear regulator
+K
+F http://www.ti.com/lit/gpn/lp5907
+$ENDCMP
+#
+$CMP XFL5015-152MEC
+D Fixed Inductors 1.5Uh Shld 8A 20.1mOhms AECQ2
+K
+F https://www.coilcraft.com/getmedia/5f7b596c-8f2f-415e-931e-74a5b6804936/xfl5015.pdf
+$ENDCMP
+#
+$CMP TFM322512ALMAR22MTAA
+D SMD / SMT Inductors (Coils), L=0.22?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_tfm322512alma_en.pdf
+$ENDCMP
+#
+$CMP RQ3E120ATTB
+D P-Channel MOSFET, 39 A, 30 V, 8-Pin HSMT ROHM RQ3E120ATTB
+K
+F https://fscdn.rohm.com//en/products/databook/datasheet/discrete/transistor/mosfet/rq3e120attb-e.pdf
+$ENDCMP
+#
+$CMP CSD17308Q3
+D Trans MOSFET N-CH 30V 50A 8-Pin VSON-CLIP EP T/R
+K
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcsd17308q3
+$ENDCMP
+#
+$CMP ERJ-2LWFR010X
+D Current Sense Resistors - SMD 0402 10mOhms 1% Curr Sens AEC-Q200
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C313.pdf
+$ENDCMP
+#
+$CMP 7443844020010
+D WURTH ELEKTRONIK - 7443844020010 - Power Inductor (SMD), 1 H, 12.1 A, Shielded, 9.8 A, WE-MXGI Series
+K
+F https://www.we-online.com/components/products/datasheet/7443844020010.pdf
+$ENDCMP
+#
+$CMP BQ25622ERYKR
+D Battery Management IC controlled one-cell 3-A buck battery charger with up to 18-V input, current limit, and ADC
+K
+F https://www.ti.com/lit/ds/symlink/bq25622e.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe
+$ENDCMP
+#
+$CMP EMC2103-2-AP-TR
+D Microchip EMC2103-2-AP-TR, Fan Controller IC
+K
+F https://www.arrow.com/en/products/emc2103-2-ap-tr/microchip-technology
+$ENDCMP
+#
+$CMP MAX20343BEWE+T
+D Ultra-Low Quiescent Current, Low Noise 3.5W Buck-Boost Regulator
+K
+F https://www.analog.com/MAX20343/datasheet
+$ENDCMP
+#
+$CMP LP5810AYBHR
+D  Operating voltage range:  VCC range: 2.7V to 5.5V  Logic pins compatible with 1.8V, 3.3V, and 5V  4 constant current sinks with high precision:  0.1mA to 51mA per current sink  Device-to-device error: max +/-5%  Channel-to-channel error: max +/-5%  Ultra-low headroom voltage: 110mV (typ.) at 25.5mA; 210mV (typ.) at 51mA  PWM phase shift configurable for each LED  Ultra-low power consumption:  Standby: ISTB = 26uA (typical) when CHIP_EN = 0 (data retained)  Active: INOR = 0.4mA (typical
+K
+F https://www.digikey.ph/en/products/detail/texas-instruments/LP5810AYBHR/22147165?msockid=39f1ec84d77b6f4428b7f904d6676eed
+$ENDCMP
+#
+$CMP BC856BMBYL
+D PNP general-purpose transistor in a leadless ultra small DFN1006B-3 (SOT883B) Surface-Mounted Device (SMD) plastic package.
+K
+F https://assets.nexperia.com/documents/data-sheet/BC856BMB.pdf
+$ENDCMP
+#
+$CMP CSD23382F4
+D -12V, P ch NexFET MOSFET, single LGA 0.6x1.0, 76mOhm
+K
+F http://www.ti.com/lit/gpn/csd23382f4
+$ENDCMP
+#
+$CMP ATTINY1616-MNR
+D Microchip ATTINY1616-MNR, 8bit AVR Microcontroller, 20MHz, 16 kB Flash, 20-Pin VQFN
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0026757.pdf
+$ENDCMP
+#
+$CMP PAC1934T-I_J6CX
+D MICROCHIP - PAC1934T-I/J6CX - DC POWER/ENERGY MONITOR IC, WLCSP-16
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0026729.pdf
+$ENDCMP
+#
+$CMP MEKK2016H1R0M
+D TAIYO YUDEN - MEKK2016H1R0M - INDUCTOR,METAL WIRE-WOUND 10AH7849
+K
+F https://ms.componentsearchengine.com/Datasheets/2/MEKK2016H1R0M.pdf
+$ENDCMP
+#
+$CMP MMBT3906LT1G
+D These Devices are Pb-Free, Halogen Free/BFR Free and are RoHS Compliant; S Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AEC-Q101 Qualified and PPAP Capable
+K
+F https://www.onsemi.com/pub/Collateral/MMBT3906LT1-D.PDF
+$ENDCMP
+#
+$CMP 2920L600_24SLER
+D Low Rho Surface Mount Resettable PTC Fuse
+K
+F https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf
+$ENDCMP
+#
+$CMP 0805L400SLWR
+D Low Rho Surface Mount Resettable PTC Fuse
+K
+F https://m.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_lorho_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP TPS259474ARPWR
+D Hot Swap Voltage Controllers 2.7-V to 23-V, 28-m?, 5.5-A eFuse with integrated reverse polarity protection
+K
+F https://www.ti.com/lit/gpn/tps25947?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes
+$ENDCMP
+#
+$CMP LS2406ERQ23
+D Power Switch ICs - Power Distribution 28V/6A efuse with True RCB & FRS
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=9243fffc-f882-4c2c-9691-22b03ef6767c&filename=littelfuse-over-voltage-protection--ls2406erq23-datasheet
+$ENDCMP
+#
+$CMP INA232AIDDFR
+D Current Monitor Regulator High/Low-Side TSOT-23-8
+K
+F https://www.ti.com/lit/ds/symlink/ina232.pdf?ts=1678135005205&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA232
+$ENDCMP
+#
+$CMP INA236AIYBJR
+D Current & Power Monitors & Regulators 48-V, 16-bit, ultraprecise, I C output current/voltage/power monitor with alert in WCSP
+K
+F https://www.ti.com/lit/gpn/ina236
+$ENDCMP
+#
+$CMP RTD2513
+D TTL compatible CMOS Input (Vt=1.7V); VCC=3.3V;
+K
+F https://www.datasheetbank.com/en/pdf-view/RTD2513-Realtek
+$ENDCMP
+#
+$CMP W25Q80RVSNJM
+D 8Mb Serial NOR Flash 133MHz SOP8
+K
+F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q80RVSNJM&type=datasheet
+$ENDCMP
+#
+$CMP AXF6G3012
+D Board to Board & Mezzanine Connectors P4SP 0.4mm pitch
+K
+F https://www.digikey.ph/en/products/detail/panasonic-electric-works/AXF6G3012/18880967?msockid=39f1ec84d77b6f4428b7f904d6676eed
+$ENDCMP
+#
+$CMP AL3565DA-7
+D Power Management Specialized - PMIC LED Backlight Handheld U-QFN3030-16 T&R 1.5K
+K
+F https://www.diodes.com//assets/Datasheets/AL3565.pdf
+$ENDCMP
+#
+$CMP W25Q80DVSSIG
+D 8Mb Serial NOR Flash 104MHz SOP8
+K
+F https://www.winbond.com/hq/search-resource-file.jsp?partNo=W25Q80DVSSIG&type=datasheet
+$ENDCMP
+#
+$CMP MCP1700T-2502E_TT
+D LDO Regulator 250mA 2.5V 1.6uA SOT23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA25/1767215.pdf
+$ENDCMP
+#
+$CMP 505278-1933
+D FFC & FPC Connectors 0.5 FFC ZIF BTM CONT 19Ckt R/A FRONT FLIP
+K
+F https://www.molex.com/pdm_docs/sd/5052781933_sd.pdf
+$ENDCMP
+#
+$CMP TS3DV621RUAR
+D Texas Instruments TS3DV621RUAR, Multiplexer Switch IC Twelve 1:2 demultiplexer, multiplexer, 3  3.6 V, 42-Pin
+K
+F http://www.ti.com/lit/gpn/ts3dv621
+$ENDCMP
+#
+$CMP ESD204DQAR
+D 4-Channel Low-Capacitance Surge and ESD Protection Diode
+K
+F http://www.ti.com/lit/gpn/esd204
+$ENDCMP
+#
+$CMP MEM2075-00-140-01-A
+D GCT (GLOBAL CONNECTOR TECHNOLOGY) - MEM2075-00-140-01-A - MICRO SD CARD CONN, PUSH-PUSH, 9POS, SMT
+K
+F 
+$ENDCMP
+#
+$CMP USB2240-AEZG-06
+D USB2240-AEZG-06, USB Controller 35Mbit/s USB 2.0, 3.3 V, 36-Pin, QFN
+K
+F https://componentsearchengine.com/Datasheets/2/USB2240-AEZG-06.pdf
+$ENDCMP
+#
+$CMP USB2244-AEZG-06
+D USB 2.0 SD/MMC Flash Controller QFN36 Microchip USB2244-AEZG-06, USB Controller, 35MBps, USB 2.0, 3.3 V, 36-Pin QFN
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562093
+$ENDCMP
+#
+$CMP MEM2061-01-188-00-A
+D MEM2061 Series 8 Position 1.1 mm Pitch Push-Push MicroSD SMT Memory Card Connector
+K
+F https://gct.co/files/drawings/mem2061.pdf?v=db251ddb-1946-4f24-aa19-b8a17901bdd2
+$ENDCMP
+#
+$CMP MIC5365-1.8YC5-TR
+D IC REG LINEAR 1.8V 150MA SC70-5
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5365.pdf
+$ENDCMP
+#
+$CMP TXU0104RUTR
+D Translation - Voltage Levels Four channel unidirectional level shifter
+K
+F https://www.ti.com/lit/ds/symlink/txu0104.pdf?ts=1684120269452&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP SJ2-35364B-SMT-TR
+D 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector
+K
+F https://www.sameskydevices.com/product/resource/sj2-35364b-smt-tr.pdf
+$ENDCMP
+#
+$CMP 1066
+D KEYSTONE - 1066.. - Battery Holder, Coin Cell - 20mm x 1, Through Hole
+K
+F http://keyelco.com/userAssets/file/M65p5.pdf
+$ENDCMP
+#
+$CMP TL3315NF100Q
+D TACT, 50mA, 15VDC SPST-NO, Off-(On) Surface Mount
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/TL3315NF100Q.pdf
+$ENDCMP
+#
+$CMP 1825027-8
+D Body Features: Case Color Black | Actuator Color Blue | Case Material Nylon | Actuator Profile Extended | Actuator Material PBT | Actuator Force 160 G | Actuator Force 5.64 OZ | Product Orientation Right Angle | Configuration Features: ESD Grounding Terminal Without | Ganged With | Support Bracket With | Configuration (Pole-Throw) Single Pole - Single Throw | Number of Actuators Single | Switch Feedback Type Tactile | Operating Function NO | Contact Features: Contact Current Rating 50 MAMP | Contact Base Ma
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&DocType=Catalog%20Section&DocLang=English&PartCntxt=1825027-8&DocFormat=pdf
+$ENDCMP
+#
+$CMP PIC18F24K42-I_MV
+D 8-bit Microcontrollers - MCU 16KB Flash, 1KB RAM, 256B EEPROM, 12-bit ADC2, Vector Interrupts, DMA, MAP, DIA, DAC, Comp, PWM, CWG, HLT, WWDT, SCAN/CRC, ZCD, PPS, UART, SPI/I2C, IDLE/DOZE/PMD
+K
+F https://www.arrow.com/en/products/pic18f24k42-imv/microchip-technology?region=nac
+$ENDCMP
+#
+$CMP DRV2603RUNR
+D Haptic Driver with Auto Resonance Tracking for LRA and Optimized Drive for ERM
+K
+F http://www.ti.com/lit/gpn/drv2603
+$ENDCMP
+#
+$CMP 505110-0592
+D Molex Easy-On Series 0.5mm Pitch 5 Way Right Angle SMT Male FPC Connector, ZIF Bottom Contact
+K
+F http://www.molex.com/webdocs/datasheets/pdf/en-us//5051100592_FFC_FPC_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP ASMB-LTC2-0A335
+D LED Multi-Color Chip Red/Green/Blue 621nm/525nm/468nm 25mA/15mA/15mA 4-Pin PLCC T/R - Tape and Reel
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/7bf4059288332b456b15eab80a49c995.pdf
+$ENDCMP
+#
+$CMP 54102-0164
+D Molex SLIMSTACK Series 0.5mm 16 Way 2 Row Straight PCB Socket Surface Mount Board to Board
+K
+F https://www.molex.com/pdm_docs/sd/541020164_sd.pdf
+$ENDCMP
+#
+$CMP SJ3-35094A
+D 3.50mm (0.141", 1/8", Mini Plug) - Headphone Phone Jack Stereo (4 Conductor, TRRS) Connector Solder
+K
+F https://www.sameskydevices.com/product/resource/sj3-3509x.pdf
+$ENDCMP
+#
+$CMP 505110-1492
+D Molex Easy-On Series 0.5mm Pitch 14 Way Right Angle SMT Male FPC Connector, ZIF Bottom Contact
+K
+F https://www.molex.com/pdm_docs/sd/5051101492_sd.pdf
+$ENDCMP
+#
+$CMP 505110-0892
+D Molex Easy-On Series 0.5mm Pitch 8 Way Right Angle SMT Male FPC Connector, ZIF Bottom Contact
+K
+F https://www.molex.com/pdm_docs/sd/5051100892_sd.pdf
+$ENDCMP
+#
+$CMP 505110-1092
+D Molex Easy-On Series 0.5mm Pitch 10 Way Right Angle SMT Male FPC Connector, ZIF Bottom Contact
+K
+F https://www.molex.com/webdocs/datasheets/pdf/en-us/5051101092_FFC_FPC_CONNECTORS.pdf
+$ENDCMP
+#
+$CMP TPS22995RZFR
+D Power Switch ICs - Power Distribution
+K
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/tps22995
+$ENDCMP
+#
+$CMP 74LVC1G04GM,115
+D 74LVC1G04 - Single inverter@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf
+$ENDCMP
+#
+$CMP 505110-1292
+D Molex Easy-On Series 0.5mm Pitch 12 Way Right Angle SMT Male FPC Connector, ZIF Bottom Contact
+K
+F https://componentsearchengine.com/Datasheets/1/505110-1292.pdf
+$ENDCMP
+#
+$CMP PTS636_SK25F_SMTR_LFS
+D Tactile Switches Tact 50mA 12VDC, 6.0x3.5, 2.5mm H, 250gf, F leads, No ground pin, Red Actuator
+K
+F 
+$ENDCMP
+#
+#End Doc Library
